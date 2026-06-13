@@ -47,7 +47,7 @@ export const botConfig = {
     deleteCommands: false,
 
     // Optional server ID used for testing slash commands quickly.
-    testGuildId: process.env.TEST_GUILD_ID,
+      testGuildId: null,
   },
 
   // =========================
